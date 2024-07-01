@@ -1,0 +1,11 @@
+# Write about yourself using 10 different print statements
+print("Name:\'Khushi Bhattarai\' ")
+print("Address: \'Pokhara-30\' ")
+print("Age: \'23\' ")
+print("University: \'Gandaki University \' ")
+print('Faculty: \"BIT\" ')
+print("Sem: \'5th\' ")
+print("Skills: \'HTM, CSS, JS, Basic linux, nodejs, express\'\n ")
+print("Project done: \'Online Cable Car Ticket Booking System\' ")
+print("Hobby: \' Coding \' ")
+print("Language: \'Nepali,\tHindi,\tEnglish\'")

@@ -1,0 +1,1 @@
+print("My name is \'Khushi Bhattarai\' \n I am from Pokhara ")

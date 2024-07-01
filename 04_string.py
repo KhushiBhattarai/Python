@@ -1,0 +1,6 @@
+name = input("Enter the name: ")
+length = len(name)
+print(f"The length of the name {name} is: {length}")
+print(name.capitalize())
+print(name.upper())
+print(name.lower())
